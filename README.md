@@ -1,9 +1,9 @@
 <div align="center">
 
-## Its_me_Amal 
+## Its_me_Thahir 
 
 <div align="center">
-  <img src=https://www.linkpicture.com/q/IMG-20210819-WA1189.jpg>
+  <img src=https://www.linkpicture.com/q/IMG_20211029_010648.jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
@@ -22,7 +22,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberchekuthan/Amalser_v1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberchekuthan/Kannappi_2)
      </div>
 <br>
 <br >
@@ -31,7 +31,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Amal
+### Its_me_Thahir
 
 
 ### ⚠️ Warning! 
@@ -45,10 +45,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Amalser](<img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
- https://github.com/Amalser_v1 |  
+  [![Thahir](<img src=https://www.linkpicture.com/q/d1e23afe-fa4a-4c18-8af6-dc2c83775672.jpeg>
+ https://github.com/Kannappi_2 |  
 ----|
-[Its_me_Amal](https://github.com/Amalser_v1)  |
+[Its_me_Thahir](https://github.com/Kannappi_2)  |
 Base, Bug Fixes, Modules | 
   
     
