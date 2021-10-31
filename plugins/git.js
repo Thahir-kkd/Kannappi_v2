@@ -25,7 +25,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
 *github link : https://github.com/thahir-kkd/Kannappi_v3*
 
-*audio commads : https://github.com/thahir-kkd/Kannappi_v3/tree/master/uploads*
+*audio commads : https://github.com/thahir-kkd/Kannappi_2/tree/master/uploads*
 `}) 
 
 }));
