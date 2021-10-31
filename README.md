@@ -51,7 +51,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   [![Thahir](<img src=https://www.linkpicture.com/q/d1e23afe-fa4a-4c18-8af6-dc2c83775672.jpeg>
  https://github.com/Kannappi_2 |  
 ----|
-[Its_me_Thahir](https://github.com/Kannappi_2)  |
+[Its_me_Thahir](https://github.com/Kannappi_v2)  |
 Base, Bug Fixes, Modules | 
   
     
