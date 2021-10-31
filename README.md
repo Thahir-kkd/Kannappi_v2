@@ -1,9 +1,12 @@
 <div align="center">
-
+<img src=https://www.coolgenerator.com/Others/text_design_dl/text/V0VMQ09NRSBUTyBLQU5OQVBQSSBCT1Q=/font/en00021/size/25/color/00bbff
+ 
 ## Its_me_Thahir 
 
 <div align="center">
   <img src=https://www.linkpicture.com/q/IMG_20211029_010648.jpg>
+
+##  [![KANNAPPI](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=00FF00&lines=Welcome+to+Kannappi+😍+WA+Bot+repo;Created+by+Thahir+Msd+🤤;💗+💗+💗+Tysm+Mehroof+💗+💗+💗+;This+is+the+Best++Bgm+bot;With+more+features+😏)](https://bit.ly/2VM4lxF)
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
